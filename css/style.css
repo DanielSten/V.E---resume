@@ -65,11 +65,16 @@ header{
     transition: 0.2s linear;
 }
 .dowload{
+    color: rgb(75, 44, 100);
     border: solid;
     font-weight: 600;
     margin-left: 60px;
     padding: 15px;
     text-align: center;
+}
+.dowload:hover{
+    color: rgb(136, 117, 156);
+    transition: 0.2s linear;
 }
 
 
