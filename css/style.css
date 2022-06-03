@@ -96,6 +96,7 @@ header{
 }
 .short_info_photo{
     width: 300px;
+    background: url('../img/VE.jpg') 60% 0/auto 100% no-repeat;
     height: auto;
     background-color: grey;
     flex: 0 1 50%;
@@ -542,6 +543,7 @@ body.lock{
 		max-width: none;
 	}
     .photo_mobile{
+        background: url('../img/VE.jpg') 60% 0/auto 100% no-repeat;
         margin: 0 auto;
         width: 130px;
         height: 130px;
